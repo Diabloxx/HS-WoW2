@@ -1,0 +1,8 @@
+/home/root/hswow/bin/authserver
+/home/root/hswow/etc/authserver.conf.dist
+/home/root/hswow/bin/worldserver
+/home/root/hswow/etc/worldserver.conf.dist
+/home/root/hswow/bin/mapextractor
+/home/root/hswow/bin/vmap4assembler
+/home/root/hswow/bin/vmap4extractor
+/home/root/hswow/bin/mmaps_generator

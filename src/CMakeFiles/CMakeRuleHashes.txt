@@ -1,0 +1,15 @@
+# Hashes of file build rules.
+51f7e2840eb8d7ed1663c835c5520f3e CMakeFiles/uninstall
+757f4f05b6b98497eee8a2566545b083 src/genrev/CMakeFiles/revision.h
+0befc5637b2d2c5b45f4f09c0d811324 src/server/authserver/CMakeFiles/generate_authPCH.cpp
+d4a362b98bfb53caa925460faf286086 src/server/authserver/authPCH.h.gch
+25b2c57e6bde5dbd3f0fab2b7fcf8684 src/server/collision/CMakeFiles/generate_collisionPCH.cpp
+f68eadd77e16e8eb13d1c5dd6519498f src/server/collision/collisionPCH.h.gch
+4e91e554826a6ed1a3c3c324f56273c7 src/server/game/CMakeFiles/generate_gamePCH.cpp
+5ecfadb7613bb4066f138b34e5223371 src/server/game/gamePCH.h.gch
+a6e00a605d01e900df17771266b5b3c8 src/server/scripts/CMakeFiles/generate_ScriptPCH.cpp
+af4040100680d6da07f7157fab16a6c8 src/server/scripts/ScriptPCH.h.gch
+8612e0466e8abc1bd43bc3117ab5c162 src/server/shared/CMakeFiles/generate_sharedPCH.cpp
+e3216a7ab8fcf52ea35f5ea0c99a9ca1 src/server/shared/sharedPCH.h.gch
+afd620dda4a1494f272d157f96eb849b src/server/worldserver/CMakeFiles/generate_worldPCH.cpp
+5303d13b3bccf0b648295dc752030b54 src/server/worldserver/worldPCH.h.gch
